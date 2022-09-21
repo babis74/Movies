@@ -7,6 +7,12 @@
 
 Η ανάπτυξη έινε με ASP.NET CORE 6 ΚΑΙ RAZOR PAGES
 
+Οδηγίες
+
+1. Κλωνοποίησε τον φάκελο στον Υπολογιστή σου
+2. Ανοιξε τον φακελο με Visual Studio Code
+3. Run without Debugging
+
 
 
 
